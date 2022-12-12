@@ -15,3 +15,9 @@
 
 - Python
 - HTML
+
+---
+
+ ### English level
+
+A1
