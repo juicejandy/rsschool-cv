@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://juicejandy.github.io/rsschool-cv/cv
+https://juicejandy.github.io/rsschool-cv/
